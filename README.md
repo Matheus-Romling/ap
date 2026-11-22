@@ -1,8 +1,8 @@
 Linguagem C:
 
-- Introdução a variáveis e operadores
-- Condicionais
-- Repetição
+- ~~Introdução a variáveis e operadores~~
+- ~~Condicionais~~
+- ~~Repetição~~
 - Vetor estático
 - Funções
 - Ponteiro
