@@ -1,0 +1,6 @@
+Comandos do Github
+
+git clone - Copia o repositório em uma pasta
+git pull - Atualiza o repositório
+
+(Commits e pulls) - Na esquerda, escreva as alterações e dê commit e push
