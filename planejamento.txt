@@ -1,0 +1,10 @@
+Linguagem C:
+
+- Introdução a variáveis e operadores
+- Condicionais
+- Repetição
+- Vetor estático
+- Ponteiro
+- Vetor dinâmico
+- Matrizes
+- Arquivos
